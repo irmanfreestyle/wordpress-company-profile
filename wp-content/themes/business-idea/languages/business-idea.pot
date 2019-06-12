@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: business-idea\n"
+"POT-Creation-Date: 2018-06-27 18:13+0530\n"
+"PO-Revision-Date: 2018-06-27 18:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\business-idea-lite\\wp-content\\themes"
+"\\business-idea\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\business-idea-lite\\wp-content"
+"\\themes\\business-idea\n"
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/404.php:9
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/404.php:11
+msgid "OOPS, WE CAN`T FIND THAT PAGE!"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/404.php:13
+msgid ""
+"The page you are looking for can`t be found. Go home by click on below "
+"button."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/404.php:15
+msgid "Back"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/header.php:52
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/search.php:32
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/search.php:60
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/single.php:55
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/home-page/section-hero.php:86
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/single.php:56
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/home-page/section-hero.php:90
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/home-page/section-blog.php:73
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-audio.php:60
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-excerpt.php:32
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-gallery.php:38
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-image.php:38
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-video.php:60
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content.php:38
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/home-page/section-blog.php:87
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/home-page/section-service.php:107
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/extra.php:40
+msgid ""
+"Please click on below \"Import Demo Data\" button to import theme contents, "
+"After you import this demo, Enjoy our <strong>Business Idea</strong> theme."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:80
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:297
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:302
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:373
+msgid "Author Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:374
+msgid "Author Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:375
+msgid "Author Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:376
+msgid "Author Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/template_tags.php:377
+msgid "Author Youtube URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:31
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:243
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:287
+#, php-format
+msgid "Keep %s updated"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:289
+msgid "Hey! There are no required actions found."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:303
+msgid "Import Data"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/about-screen/welcome-screen.php:303
+#, php-format
+msgid ""
+"<p>Congratulations! you installed importer plugin successfully. Click Here "
+"to start <a href=\"%s\">"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:9
+msgid "Primary Color"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:330
+msgid "Add an item"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:345
+msgid "Item"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:461
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:495
+msgid "Remove"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:462
+msgid "Add"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:462
+msgid "Change"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:497
+msgid "Close"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-controls.php:536
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:11
+msgid "Woocommerce Recommended Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:32
+msgid "General Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:40
+msgid "Global"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:50
+msgid "Sidebar Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:51
+msgid ""
+"Sidebar Layout, apply this setting for all post and pages, exclude home page "
+"and custom page templates."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:55
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:56
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:57
+msgid "No Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:65
+msgid "Hide footer back to top?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:66
+msgid "Check this setting to hide footer back to top button."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:76
+msgid "Disable animation effect?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:77
+msgid "Check this setting to disable all animation effect when scroll."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:87
+msgid "Disable google fonts?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:88
+msgid "Check this setting to disable google fonts in the theme."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:93
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:103
+msgid "Boxed Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:104
+msgid "Check this setting to show your website in Boxed layout."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:110
+msgid "Single Post"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:120
+msgid "Disable Single Post Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:121
+msgid "Check this setting to disable single post meta data."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:132
+msgid "Disable Single Post Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:133
+msgid "Check this setting to disable single post thumbnail data."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:139
+msgid "Footer Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:148
+msgid "Copyright"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-general-settings.php:149
+msgid "If you want to show copyright text in bottom of footer area."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:9
+msgid "Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:12
+msgid "General Content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:22
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:39
+msgid "Font Size (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:23
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:40
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:57
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:69
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:81
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:93
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:105
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:117
+msgid "Select font size."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:29
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:46
+msgid "Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:56
+msgid "Heading h1 (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:68
+msgid "Heading h2 (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:80
+msgid "Heading h3 (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:92
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:104
+msgid "Heading h5 (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/customizer-panel-typography.php:116
+msgid "Heading h6 (px)"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:26
+msgid "Section : About"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:30
+msgid "About Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:39
+msgid "Hide About Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:40
+msgid "Check this setting to hide about section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:50
+msgid "About Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:51
+msgid "This setting for about section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:61
+msgid "About Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:62
+msgid "This setting for about section subtitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:126
+msgid "About layout settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:127
+msgid "Choose your about layout column."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:131
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:78
+msgid "1 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:132
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:79
+msgid "2 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:136
+msgid "About Content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:155
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:102
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:67
+msgid ""
+"Upgrade to <a target=\"_blank\" href=\"https://webdzier.com/themes/"
+"\">Businessidea Pro</a> to be able to add more items and unlock other "
+"premium features!"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-about.php:190
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:137
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:89
+msgid "Section Background"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:9
+msgid "Section : Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:13
+msgid "Blog Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:22
+msgid "Hide Blog Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:23
+msgid "Check this setting to hide blog section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:33
+msgid "Blog Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:34
+msgid "This setting for blog section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:44
+msgid "Blog Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:45
+msgid "This setting for blog section subtitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-blog.php:71
+msgid "blog Content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:9
+msgid "Section : Contact"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:13
+msgid "Contact Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:22
+msgid "Hide Contact Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:23
+msgid "Check this setting to hide contact section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:33
+msgid "Contact Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:34
+msgid "This setting for contact section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:44
+msgid "Contact Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:45
+msgid "This setting for contact section subttitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:55
+msgid "Contact Description"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:56
+msgid "This setting for contact section description."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:66
+msgid "Address"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:67
+msgid "This setting for address"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:77
+msgid "Phone"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:78
+msgid "This setting for phone number"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:88
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:89
+msgid "This setting for email id"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:99
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:100
+msgid "This setting for website"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:105
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:130
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-contact.php:131
+msgid "This setting for contact form shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:7
+msgid "Section : Hero"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:11
+msgid "Hero Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:20
+msgid "Hide Hero Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:21
+msgid "Check this setting to hide hero section from FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:31
+msgid "Make hero section full width?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:32
+msgid "Check this setting to make your home page hero section full width."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:53
+msgid "Text animation"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:54
+msgid "Choose your favorite animation effect."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:66
+msgid "Slider Effect"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:67
+msgid "Select choose slide effect from this setting."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:71
+msgid "Slide"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:72
+msgid "Fade"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:82
+msgid "Slider animation speed"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:83
+msgid ""
+"This animation speed refers to which is image fade in. Integers in "
+"milliseconds are accepted."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:89
+msgid "Hero media images"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:143
+msgid "Hero content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:205
+msgid "Button Text 1"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:206
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:240
+msgid "This setting for change button text in front page hero section"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:216
+msgid "Button Link 1"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:217
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:251
+msgid "This setting for change button link in front page hero section"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:227
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:261
+msgid "Open button in new window"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:228
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:262
+msgid "This setting to open button link in new window."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:239
+msgid "Button Text 2"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-hero.php:250
+msgid "Button Link 2"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:26
+msgid "Section : Service"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:30
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:39
+msgid "Hide Service Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:40
+msgid "Check this setting to hide service section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:51
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:52
+msgid "This setting for service section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:62
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:63
+msgid "This setting for service section subtitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:73
+msgid "Service layout settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:74
+msgid "Choose your service layout column."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:80
+msgid "3 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:81
+msgid "4 Column"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-service.php:85
+msgid "Service Content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:11
+msgid "Section : Shop"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:15
+msgid "Shop Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:24
+msgid "Hide Shop Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:25
+msgid "Check this setting to hide shop section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:35
+msgid "Shop Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:36
+msgid "This setting for shop section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:46
+msgid "Shop Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:47
+msgid "This setting for shop section subtitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:57
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:68
+msgid "Hide category from products?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:58
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:69
+msgid "Check this setting to hide category from the home page products."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:79
+msgid "Hide description from products?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:80
+msgid "Check this setting to hide description from the home page products."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:90
+msgid "Hide scroll effects?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:91
+msgid "Check this setting to hide scroll effects."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-shop.php:101
+msgid "No. of products to show"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:9
+msgid "Section : Social"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:13
+msgid "Social Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:22
+msgid "Hide Social Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:23
+msgid "Check this setting to hide social section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:33
+msgid "Social Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:34
+msgid "This setting for social section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:59
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:60
+msgid "This setting for facebook url"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:70
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:71
+msgid "This setting for twitter url"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:81
+msgid "Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-social.php:82
+msgid "This setting for google plus url"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:9
+msgid "Section : Team"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:13
+msgid "team Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:22
+msgid "Hide Team Section?"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:23
+msgid "Check this setting to hide team section from the FrontPage."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:33
+msgid "Team Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:34
+msgid "This setting for team section title."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:44
+msgid "Team Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:45
+msgid "This setting for team section subtitle."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/sections/section-team.php:50
+msgid "Team Content"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:8
+msgid "404 Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:12
+msgid "Error 404 Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:22
+msgid "404 Page Title"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:23
+msgid "Enter title for 404 page."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:33
+msgid "404 Page Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:34
+msgid "Enter subtitle for 404 page."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:44
+msgid "404 Page Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:45
+msgid "Enter contents for 404 page."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:55
+msgid "404 Page Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/customizer/templates/customizer-404.php:56
+msgid "Enter button text for 404 page."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/install/class-install-helper.php:51
+msgid "Install and activate"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/install/class-install-helper.php:71
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:5
+msgid "Primary Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:7
+msgid "The primary widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:16
+msgid "Woocommerce"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:18
+msgid "Woocommerce widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:28
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/inc/widgets/sidebar.php:30
+#, php-format
+msgid "The footer sidebar widget area %s"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/page/content-page.php:32
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-audio.php:98
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-gallery.php:87
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-image.php:76
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-video.php:98
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content.php:75
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-audio.php:52
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-excerpt.php:24
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-gallery.php:30
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-image.php:30
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-video.php:52
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content.php:30
+msgid "Posted by :"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-audio.php:93
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-gallery.php:82
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-image.php:71
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-video.php:93
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content.php:70
+#, php-format
+msgid "Read More<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\business-idea-lite\wp-content\themes\business-idea/template-parts/post/content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

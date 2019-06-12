@@ -1,0 +1,33 @@
+.sub-option.widget-upload .screenshot img {
+    width: 120px;
+    height: auto;
+}
+.sub-option.widget-upload .screenshot a.remove-image {
+    display: block;
+    border: solid 1px #cacaca;
+    padding: 3px;
+    width: 48px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 2px;
+}
+
+/**
+* Upgred To Pro
+*/
+.control-section-construction-pro{
+ display: block !important;
+}
+#customize-theme-controls .control-section-construction-pro h3.accordion-section-title {
+   background: #0073aa !important;
+   color: #FFF !important;
+   border: 0;
+}
+.control-section-construction-pro .accordion-section-title .button {
+   margin-top: -4px;
+   margin-left: 8px;
+   border: none;
+   color: #fff;
+   background: #28c503;
+   box-shadow: none;
+}

@@ -1,0 +1,24 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_construction-lite">
+    <key name="construction_lite_about_title" />
+    <key name="construction_lite_about_sub_title" />
+    <key name="construction_lite_feature_title" />
+    <key name="construction_lite_feature_sub_title" />
+    <key name="construction_lite_team_title" />
+    <key name="construction_lite_team_sub_title" />
+    <key name="construction_lite_portfolio_title" />
+    <key name="construction_lite_portfolio_sub_title" />
+    <key name="construction_lite_blog_title" />
+    <key name="construction_lite_blog_sub_title" />
+    <key name="construction_lite_cta_title" />
+    <key name="construction_lite_cta_section_description" />
+    <key name="construction_lite_shop_title" />
+    <key name="construction_lite_shop_sub_title" />
+    <key name="construction_lite_testimonial_title" />
+    <key name="construction_lite_testimonial_sub_title" />
+    <key name="construction_lite_top_footer_description" />
+    <key name="construction_lite_footer_text" />
+</key>
+</admin-texts>
+</wpml-config>

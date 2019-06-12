@@ -1,0 +1,36 @@
+== Change log ==
+
+= 2.0.0 - March 18 2019 =
+* Added : Both and Middle Column Sidebar layout
+* Added : Gutenberg Ready
+* Added : WooCommerce Sidebar Options
+* Added : wpml-config.xml
+* Update : RTL CSS
+* Fixed : count function issue
+* Fixed : Slider Button Text Translation issue
+* Fixed : Space before DOCTYPE
+* Fixed : Other Minor Issues
+
+= 1.0.4 =
+* Read More Button fixed
+* rtl-language-support added
+
+= 1.0.3 =
+* Button hover and minor CSS fixed
+
+= 1.0.2 =
+* Theme info page added
+* Upgrade to Premium added
+* Demo Import fixed
+* Copyright text fixed suggested by reviewer
+
+= 1.0.1 =
+* WooCommerce issue fixed
+* Typo Fixed
+* Some minor changes
+
+= 1.0.0 =
+* Design enhancement
+
+= 0.0.1 =
+* Submitted on WordPress.org

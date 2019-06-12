@@ -1,0 +1,81 @@
+
+---Downloaded files---
+The import files for: Business Idea were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/company
+Data file = /opt/lampp/htdocs/company/wp-content/uploads/2019/06/demo-content-import-file_2019-06-12__06-35-48.xml
+Widget file = /opt/lampp/htdocs/company/wp-content/uploads/2019/06/demo-widgets-import-file_2019-06-12__06-35-48.json
+Customizer file = /opt/lampp/htdocs/company/wp-content/uploads/2019/06/demo-customizer-import-file_2019-06-12__06-35-48.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+
+Footer 2 : 
+
+Recent Posts - Latest Posts - Imported
+
+Footer 3 : 
+
+Tag Cloud - Tags - Imported
+
+Footer 4 : 
+
+Calendar - Calender - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
